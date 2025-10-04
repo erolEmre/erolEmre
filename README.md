@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **C#,Oracle SQL**
 
-- 👨‍💻 All of my projects are available at [https://github.com/EemreQQ](https://github.com/EemreQQ)
+- 👨‍💻 All of my projects are available at [https://github.com/EemreQQ](https://github.com/erolEmre)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
