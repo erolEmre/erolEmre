@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Emre</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate backend developer from Turkey</h3>
 
 - 🔭 I’m currently working on [Note App](https://github.com/erolEmre?tab=repositories)
 
