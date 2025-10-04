@@ -23,6 +23,10 @@
   <a href="https://www.postgresql.org/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40" style="background-color:white; padding:5px; border-radius:10px;"/>
   </a>
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40" style="background-color:white; padding:5px; border-radius:10px;"/> 
+  </a> 
+  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"style="background-color:white; padding:5px; border-radius:10px;"/> 
+  </a>
   <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="background-color:white; padding:5px; border-radius:10px;"/>
   </a>
@@ -35,12 +39,4 @@
   <a href="https://www.w3schools.com/css/" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="40" height="40" style="background-color:white; padding:5px; border-radius:10px;"/>
   </a>
-</p>
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=erolEmre&show_icons=true&theme=dark" alt="Emre's GitHub stats"/>
 </p>
